@@ -18,7 +18,6 @@ import time
 import os
 import win32com.client as win32
 import pandas as pd
-import numpy as np
 import shutil
 import glob
 import random
